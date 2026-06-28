@@ -1,4 +1,4 @@
-# 
+# 终极 Atom 插件 Mac OS版 | 自动 Atom 插件 PC Windows版。集成 数据库图表 和 插件市场，跨平台性能最大化。
 
 
 
